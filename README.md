@@ -55,6 +55,13 @@ cd appointment-booking-app
 
 ```bash
 # 2. Start the backend
+
+# ⚠️ Before running the server:
+# Open backend/utils/email.js and add your email and app password:
+# Example (Gmail):
+# user: 'your.email@gmail.com',
+# pass: 'your-app-password'
+
 cd backend
 npm install
 node server.js
