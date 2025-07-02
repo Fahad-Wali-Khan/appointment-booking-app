@@ -156,23 +156,12 @@ Node.js + Express API server.
 
 ---
 
-## 🧹 Engineering Practices
-
-* RESTful API design
-* Clear file/module separation
-* Real-time updates with cleanup
-* Descriptive error responses
-* Minimal but clean UI
-
----
-
 ## 🧪 Future Improvements
 
 * Calendar view for slots
 * Admin login (optional)
 * Slot duration customization
 * Persistent DB (e.g., SQLite or MongoDB)
-* Docker support
 
 ---
 
